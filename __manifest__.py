@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': "odoo-SOC",
+    'name': "SOC",
     'summary': 'Odoo module for consignment control in client facitilies (example: a publisher controls his books in bookshops',
     'description': 'Odoo module for consignment control in client facitilies (example: a publisher controls his books in bookshops. It was designed for a publishing house.',
     'author': "Udoo",
